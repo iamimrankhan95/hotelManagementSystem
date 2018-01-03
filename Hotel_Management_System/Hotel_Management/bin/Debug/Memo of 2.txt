@@ -1,0 +1,8 @@
+4/30/2017 5:48:05 PM
+name: Antara
+ room: 104
+ days: 4
+ confirmed by:abc
+
+
+Total : 10000
